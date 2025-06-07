@@ -1,5 +1,5 @@
 const profile = {
-  name: "Your Name",
+  name: "Parzzix",
   bio: "Vibe coding ninja! Security professional, and all around geek!",
   avatar: "https://github.com/Parzzix.png", // Uses your GitHub profile image
   links: [
